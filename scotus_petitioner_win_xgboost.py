@@ -1,5 +1,3 @@
-"""SCOTUS petitioner outcome prediction (XGBoost). See README.md for data setup."""
-
 import warnings
 import pandas as pd
 import numpy as np
